@@ -6,6 +6,7 @@ the history content and fundamental concepts of AI ,ML,NeuralNetworks(NN),and ge
 
 ![alt text](assests/history.png)
 
+
 **Large Language Models (LLMs)** It represent a significant evolution in the field of natural language processing (NLP) and artificial intelligence (AI). Their development stems from advances in neural network architectures, availability of large-scale data, and computational power.
 
 **Artificial Intelligence(AI)** it is a branch of computer science focused on creating machines that can think and act like humans. It encompasses a range of technologies, from virtual assistants like Siri and Alexa to customer service chatbots on websites.
